@@ -1,0 +1,1217 @@
+{
+  "Multiplayer": {
+    "pages": 17,
+    "events": 24,
+    "examples": [
+      "MULTIPLAYER",
+      "Multiplayer",
+      "Multiplayer Map Adjustments",
+      "Multiplayer Ranked Play",
+      "Multiplayer Ranked Play: Ranking System Update",
+      "New Attachments (Multiplayer & Zombies)",
+      "New Limited-Time Multiplayer Modes",
+      "New Multiplayer Limited-Time Mode"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER",
+        12
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > MULTIPLAYER",
+        10
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > MULTIPLAYER",
+        10
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > MULTIPLAYER",
+        8
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER",
+        7
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > MULTIPLAYER",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops Season 05 Patch Notes > MULTIPLAYER",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > MULTIPLAYER",
+        5
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        111
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        75
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        6
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        4
+      ]
+    ]
+  },
+  "Warzone": {
+    "pages": 21,
+    "events": 26,
+    "examples": [
+      "CALL OF DUTY: WARZONE",
+      "CALL OF DUTY: WARZONE [CONTINUED]",
+      "Call of Duty: Warzone Season 01 Patch Notes",
+      "Call of Duty: Warzone Season 01 Reloaded Patch Notes",
+      "Call of Duty: Warzone Season 02 Patch Notes",
+      "Call of Duty: Warzone Season 02 Reloaded Patch Notes",
+      "Call of Duty: Warzone Season 03 Patch Notes",
+      "Call of Duty: Warzone Season 03 Reloaded Patch Notes"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Modern Warfare 4 Beta Patch Notes > WARZONE",
+        5
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > WARZONE",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > WARZONE",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > CALL OF DUTY: WARZONE",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        24
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        5
+      ]
+    ]
+  },
+  "Zombies": {
+    "pages": 16,
+    "events": 19,
+    "examples": [
+      "AK-74 Zombies Adjustments",
+      "AMES 85 Zombies Adjustments",
+      "AS VAL Zombies Adjustments",
+      "GPR-91 Zombies Adjustments",
+      "Grief Returns to Zombies",
+      "Mid-Season Zombies Map: Kowakuj\u014d",
+      "Mid-Season Zombies Map: Rex Infernus",
+      "Model L Zombies Adjustments"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES",
+        12
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES",
+        10
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ZOMBIES",
+        9
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > ZOMBIES",
+        8
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > ZOMBIES",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > ZOMBIES",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops Season 05 Patch Notes > ZOMBIES",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > ZOMBIES",
+        5
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        116
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        83
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        2
+      ]
+    ]
+  },
+  "Campaign": {
+    "pages": 4,
+    "events": 4,
+    "examples": [
+      "CAMPAIGN",
+      "CO-OP CAMPAIGN",
+      "CO-OP CAMPAIGN - General Updates",
+      "CO-OP CAMPAIGN / ENDGAME",
+      "Campaign",
+      "Co-Op Campaign",
+      "ENDGAME / CO-OP CAMPAIGN"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > CO-OP CAMPAIGN / ENDGAME",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > CO-OP CAMPAIGN",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > CO-OP CAMPAIGN / ENDGAME",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Monday, November 4, 2024 - 3 pm/PT > CAMPAIGN",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > CAMPAIGN",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Wednesday, November 13, 2024 > CAMPAIGN",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > CO-OP / ENDGAME > Campaign",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > Co-Op Campaign",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        10
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        3
+      ]
+    ]
+  },
+  "Ranked Play": {
+    "pages": 30,
+    "events": 51,
+    "examples": [
+      "Black Ops 7 Ranked Play",
+      "Multiplayer Ranked Play",
+      "Multiplayer Ranked Play: Ranking System Update",
+      "New Ranked Play Season",
+      "RANKED PLAY",
+      "Ranked Play",
+      "Ranked Play (MP)",
+      "Ranked Play Career: Rank Skins"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > RANKED PLAY",
+        8
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > RANKED PLAY",
+        6
+      ],
+      [
+        "Call of Duty: Warzone Season 04 Reloaded Patch Notes > RANKED PLAY",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > MULTIPLAYER > Ranked Play",
+        5
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > RANKED PLAY",
+        5
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > RANKED PLAY",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > MULTIPLAYER > Ranked Play",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 05 Patch Notes > RANKED PLAY",
+        3
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        38
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        30
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        29
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Movement": {
+    "pages": 15,
+    "events": 19,
+    "examples": [
+      "MOVEMENT",
+      "Movement",
+      "Movement Adjustments",
+      "Movement Updates",
+      "New Movement",
+      "\u00bb MOVEMENT \u00ab"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > MOVEMENT",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > GLOBAL > Movement",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > GLOBAL > Movement Updates",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > Multiplayer > Movement Updates",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > MOVEMENT",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > MOVEMENT",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Monday, November 4, 2024 - 10 am/PT > Kompakt 92 > Movement Updates",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > MULTIPLAYER > Movement",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        18
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        11
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        2
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        2
+      ]
+    ]
+  },
+  "Spawning": {
+    "pages": 6,
+    "events": 7,
+    "examples": [
+      "SPAWNS",
+      "Spawns",
+      "Weapon XP, Overclock Earn Rates, Spawns, Bug Fixes"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > MULTIPLAYER > Spawns",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > Multiplayer > Spawns",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Monday, November 4, 2024 - 10 am/PT > MULTIPLAYER > Spawns",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Wednesday, November 13, 2024 > MULTIPLAYER > Spawns",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Beta Patch Notes > Patch Notes Preview > Spawns",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Beta Patch Notes > Upcoming Changes Based on Feedback > Weapon XP, Overclock Earn Rates, Spawns, Bug Fixes",
+        1
+      ],
+      [
+        "Call of Duty: Modern Warfare 4 Beta Patch Notes > Friday AUGUST 28 > SPAWNS",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        6
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        2
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Matchmaking": {
+    "pages": 3,
+    "events": 3,
+    "examples": [
+      "Launch Matchmaking",
+      "Matchmaking",
+      "Matchmaking Update",
+      "Matchmaking and Open Moshpit"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Saturday, October 26th, 2024 > MULTIPLAYER > Matchmaking",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Launch Preparations > Launch Matchmaking",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Beta Patch Notes > Beta Takeaways > Matchmaking Update",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Beta Patch Notes > MULTIPLAYER > Matchmaking and Open Moshpit",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        2
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        2
+      ]
+    ]
+  },
+  "Progression": {
+    "pages": 12,
+    "events": 13,
+    "examples": [
+      "New Endgame Feature: Operator Prestige",
+      "New Prestige",
+      "PROGRESSION",
+      "PROGRESSION & PRESTIGE",
+      "PROGRESSION & XP",
+      "Prestige Master Title Chalenges",
+      "Progression",
+      "Progression & Rewards"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > MULTIPLAYER > Ranks + Prestige",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Monday, November 4, 2024 - 10 am/PT > GLOBAL > Progression",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Friday, November 1, 2024 > MULTIPLAYER > Progression",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Wednesday, November 13, 2024 > LR 7.62 > Ranks & Prestige",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > GLOBAL > PROGRESSION & PRESTIGE",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > MULTIPLAYER > PROGRESSION & XP",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Beta Patch Notes > Welcome to Day 6 of the Black Ops 7 Beta! > Open Search and Destroy Returns > Progression",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Beta Patch Notes > Patch Notes Preview > Progression",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        7
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        7
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        3
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        3
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        2
+      ]
+    ]
+  },
+  "Audio": {
+    "pages": 19,
+    "events": 26,
+    "examples": [
+      "AUDIO",
+      "Audio"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Modern Warfare 4 Beta Patch Notes > AUDIO",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER > Audio",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 04 Patch Notes > ZOMBIES > Audio",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > AUDIO",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Audio",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > Zombies > Audio",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > Audio",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ZOMBIES > Audio",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        17
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        11
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        7
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        7
+      ]
+    ]
+  },
+  "UI/UX": {
+    "pages": 27,
+    "events": 35,
+    "examples": [
+      "CALL OF DUTY UI & CROSS-LAUNCHING",
+      "UI",
+      "UI & UX",
+      "UI (Multiplayer & Zombies)",
+      "UI (Multiplayer and Zombies)",
+      "UI/UX",
+      "UI/UX/TECH"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > UI",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > MULTIPLAYER > UI",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > MULTIPLAYER > UI",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > ZOMBIES > UI",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > MULTIPLAYER > UI",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > GLOBAL > UI",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > MULTIPLAYER > UI",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER > UI",
+        4
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        72
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        67
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        15
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        4
+      ]
+    ]
+  },
+  "Performance/Stability": {
+    "pages": 18,
+    "events": 22,
+    "examples": [
+      "Bugs and Stability",
+      "PERFORMANCE",
+      "Performance",
+      "Stability",
+      "Stability & Controls",
+      "Stability & Performance"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > ZOMBIES > Stability",
+        7
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > MULTIPLAYER > Stability",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > MULTIPLAYER > Stability",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER > Stability",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Stability",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > ZOMBIES > Stability",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER > Stability",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > Stability",
+        4
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        74
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        69
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        3
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        2
+      ]
+    ]
+  },
+  "Network": {
+    "pages": 1,
+    "events": 1,
+    "examples": [
+      "Disconnect Protection"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > CO-OP CAMPAIGN / ENDGAME > Disconnect Protection",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Anti-Cheat": {
+    "pages": 22,
+    "events": 22,
+    "examples": [
+      "#TEAMRICOCHET",
+      "ANTI-CHEAT",
+      "RICOCHET ANTI-CHEAT",
+      "RICOCHET ANTICHEAT",
+      "RICOCHET Anti-Cheat",
+      "RICOCHET Anti-Cheat\u2122",
+      "Ricochet Anti-Cheat"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > GLOBAL > Ricochet Anti-Cheat",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > GLOBAL > RICOCHET Anti-Cheat",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > RICOCHET ANTI-CHEAT",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > RICOCHET ANTI-CHEAT",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > MULTIPLAYER > RICOCHET Anti-Cheat",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Ricochet Anti-Cheat",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Wednesday, November 13, 2024 > GLOBAL > Ricochet Anti-Cheat",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > GLOBAL > RICOCHET ANTI-CHEAT",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        10
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        10
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        7
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Social": {
+    "pages": 8,
+    "events": 8,
+    "examples": [
+      "Additional Social Features",
+      "Join on Friends",
+      "New Event: Nuketown Block Party (MP, ZM)",
+      "Party Games Return",
+      "Party Ops (Launch Window)",
+      "Party Size Restriction Update",
+      "SOCIAL",
+      "SOCIAL & CHANNELS"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Additional Social Features",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > JANUARY 31 > GLOBAL > Join on Friends",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > GLOBAL > SOCIAL & CHANNELS",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > WELCOME TO SEASON 04 RELOADED > New Multiplayer Limited-Time Mode > Party Ops (Launch Window)",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 05 Patch Notes > Welcome to Season 05 Reloaded > New Event: Nuketown Block Party (MP, ZM)",
+        1
+      ],
+      [
+        "CO-OP / ENDGAME > WELCOME TO SEASON 01 > Party Games Return",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 04 Patch Notes > WELCOME TO SEASON 04 > Multiplayer Ranked Play: Ranking System Update > Party Size Restriction Update",
+        1
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > RANKED PLAY > Additional Social Features",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        5
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        2
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        2
+      ]
+    ]
+  },
+  "Settings": {
+    "pages": 5,
+    "events": 5,
+    "examples": [
+      "Competitive Settings",
+      "Competitive Settings Overview",
+      "Console Cross-Play Settings",
+      "SETTINGS",
+      "Settings"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > GLOBAL > Console Cross-Play Settings",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Friday, November 1, 2024 > GLOBAL > Settings",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Saturday, October 26th, 2024 > GLOBAL > Settings",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > GLOBAL > Settings",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Competitive Settings Overview",
+        1
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > SETTINGS",
+        1
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > RANKED PLAY > Competitive Settings",
+        1
+      ],
+      [
+        "Call of Duty: Modern Warfare III Season 6 Patch Notes > Tuesday, September 24, 2024 > Settings",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        6
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        2
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Customization": {
+    "pages": 4,
+    "events": 5,
+    "examples": [
+      "CUSTOMIZATION",
+      "Customization"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 6 Patch Notes > CUSTOMIZATION",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > GLOBAL > Customization",
+        1
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > CUSTOMIZATION",
+        1
+      ],
+      [
+        "Call of Duty: Modern Warfare III Season 6 Patch Notes > Monday, October 21, 2024 > Customization",
+        1
+      ],
+      [
+        "Call of Duty: Modern Warfare III Season 6 Patch Notes > Wednesday, September 18, 2024 > Customization",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        3
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        2
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Economy/Rewards": {
+    "pages": 19,
+    "events": 19,
+    "examples": [
+      "Breakdown: Rewards",
+      "Call of Duty: Black Ops 7 Ranked Series Rewards",
+      "Career Rewards",
+      "Combat Bow (Event Reward)",
+      "Contract Rewards",
+      "Enter the Link Forger Glitch, Earn Rewards",
+      "GDL Havoc (Week 1 Weekly Challenge Reward)",
+      "GPR91 Double-Barrel Conversion (Event Reward)"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > RANKED PLAY > Rewards",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Saturday, October 26th, 2024 > STORE",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Thursday, December 12, 2024 > GLOBAL > Store",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Rewards Overview",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Rewards Overview > Breakdown: Rewards",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Rewards Overview > Win Challenge Rewards",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Rewards Overview > Season 01 Rewards",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Tuesday, November 19, 2024 - 9 am/PT > GLOBAL > Store",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        15
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        15
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        12
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  }
+}

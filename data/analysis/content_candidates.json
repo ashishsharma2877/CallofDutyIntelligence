@@ -1,0 +1,1212 @@
+{
+  "Map": {
+    "pages": 35,
+    "events": 42,
+    "examples": [
+      "Available Maps Per Mode",
+      "Available Via Map Loot",
+      "Cel-Shaded Map Variants",
+      "Freerun: Descent (New Freerun Map)",
+      "MAP",
+      "MAP UPDATES",
+      "MAPS",
+      "MAPS & MODES"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Maps",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER > Maps",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ZOMBIES > Maps",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > ZOMBIES > Maps",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > MULTIPLAYER > Maps",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER > Maps",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > MULTIPLAYER > Maps",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > Maps",
+        4
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        80
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        80
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        26
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        5
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        4
+      ]
+    ]
+  },
+  "Weapon": {
+    "pages": 37,
+    "events": 72,
+    "examples": [
+      "Adjustments for Future Weapon Damage Patch Notes",
+      "All Weapons",
+      "Black Ops 6 Weapons",
+      "Classic Weapons",
+      "Exotic Weapons",
+      "Global Weapon Builds",
+      "Melee Weapons",
+      "Miscellaneous Weapon Updates"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > WEAPONS",
+        10
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > WEAPONS",
+        9
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > ZOMBIES > Weapons",
+        5
+      ],
+      [
+        "Call of Duty: Warzone Season 6 Patch Notes > WEAPONS",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Weapons",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > ZOMBIES > Weapons",
+        4
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > WEAPONS > Weapon Adjustments",
+        4
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > WEAPONS",
+        4
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        117
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        95
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        92
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        11
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        7
+      ]
+    ]
+  },
+  "Attachment": {
+    "pages": 33,
+    "events": 40,
+    "examples": [
+      "ATTACHMENT ADJUSTMENTS",
+      "Apex Attachment: M4 Hurricane",
+      "Attachment Adjustments",
+      "Attachment Restrictions",
+      "Attachments",
+      "Barrel Attachments",
+      "Fire Mod Attachments",
+      "Full Auto Mod Attachment Adjustments"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > WELCOME TO SEASON 03 RELOADED > New Attachment",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > WELCOME TO SEASON 03 > New Attachments",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > WEAPONS > New Attachments",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > WEAPONS > New Attachments",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > WEAPONS > New Attachments",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 04 Reloaded Patch Notes > WEAPONS > New Attachments",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 05 Patch Notes > WEAPONS > New Attachments",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 06 Patch Notes > WEAPONS > New Attachments",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        26
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        25
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        12
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        8
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        6
+      ]
+    ]
+  },
+  "Mode": {
+    "pages": 37,
+    "events": 61,
+    "examples": [
+      "Astra Malorum: Directed Mode",
+      "Available Maps Per Mode",
+      "Black Ops Classic (New Mode)",
+      "Cursed Mode: Ashwood (Launch)",
+      "Directed Mode",
+      "Directed Mode: Ashes of the Damned",
+      "Directed Mode: Kowakuj\u014d",
+      "Directed Mode: Paradox Junction"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > PLAYLIST",
+        7
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER > Modes",
+        6
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > MODES",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ZOMBIES > Modes",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops Season 05 Patch Notes > ZOMBIES > Modes",
+        5
+      ],
+      [
+        "Call of Duty: Warzone Season 04 Reloaded Patch Notes > MODES",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER > Modes",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > MULTIPLAYER > Modes",
+        4
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        86
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        77
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        67
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        8
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        5
+      ]
+    ]
+  },
+  "Operator": {
+    "pages": 11,
+    "events": 12,
+    "examples": [
+      "New Endgame Feature: Operator Prestige",
+      "New Operators",
+      "New Operators (Multiplayer & Zombies)",
+      "OPERATORS",
+      "Operators",
+      "Rank Operator Skins"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > WELCOME TO SEASON 03 > New Operators",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Monday, November 4, 2024 - 10 am/PT > GLOBAL > Operators",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Saturday, October 26th, 2024 > GLOBAL > Operators",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > RANKED PLAY > Rewards Overview > Rank Operator Skins",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Wednesday, November 13, 2024 > WELCOME TO SEASON 01 > New Operators (Multiplayer & Zombies)",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > Welcome to Season 02 > New Operators (Multiplayer & Zombies)",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > GLOBAL > Operators",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 04 Patch Notes > WELCOME TO SEASON 04 > New Endgame Feature: Operator Prestige",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        7
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        7
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        2
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Vehicle": {
+    "pages": 13,
+    "events": 15,
+    "examples": [
+      "VEHICLES",
+      "Vehicle Vulnerability",
+      "Vehicles",
+      "\u00bb VEHICLES \u00ab"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > VEHICLES",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > VEHICLES",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Friday, November 8, 2024 > ZOMBIES > Vehicles",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Preseason Patch Notes > Monday, November 4, 2024 - 10 am/PT > ZOMBIES > Vehicles",
+        1
+      ],
+      [
+        "CO-OP / ENDGAME > ZOMBIES > Vehicles",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > Vehicles",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 04 Patch Notes > ZOMBIES > Vehicles",
+        1
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > RANKED PLAY > Competitive Settings > Vehicles",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        13
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        3
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        2
+      ]
+    ]
+  },
+  "Equipment": {
+    "pages": 29,
+    "events": 39,
+    "examples": [
+      "Available Equipment",
+      "EQUIPMENT",
+      "EQUIPMENT & KILLSTREAKS",
+      "Equipment",
+      "Equipment Adjustments",
+      "Equipment, Perks, Field Upgrades, and Wildcards",
+      "Lethal Equipment",
+      "Tactical Equipment"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER > Equipment",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER > Equipment",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > EQUIPMENT",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > EQUIPMENT",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > EQUIPMENT",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 05 Patch Notes > EQUIPMENT",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > MULTIPLAYER > Equipment",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Equipment",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        34
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        20
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        16
+      ]
+    ]
+  },
+  "Perk": {
+    "pages": 30,
+    "events": 36,
+    "examples": [
+      "Available Perks",
+      "Equipment, Perks, Field Upgrades, and Wildcards",
+      "Lootable Perks",
+      "New Multiplayer Perk",
+      "New Multiplayer Perk & Wildcard",
+      "New Multiplayer Perks",
+      "New Perk",
+      "New Perk-a-Cola: Widow\u2019s Wine"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Perks",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ZOMBIES > Perk-a-Colas",
+        4
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > PERKS",
+        4
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > PERKS",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER > Perks",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > Perk-a-Colas",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > MULTIPLAYER > Perks",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > ZOMBIES > Perks",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        42
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        27
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        22
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Scorestreak/Killstreak": {
+    "pages": 29,
+    "events": 40,
+    "examples": [
+      "Available Killstreaks",
+      "EQUIPMENT & KILLSTREAKS",
+      "KILLSTREAKS",
+      "Killstreak Adjustments",
+      "Killstreaks",
+      "New Multiplayer Scorestreak",
+      "New Scorestreak",
+      "New Scorestreak (Multiplayer & Zombies [Support])"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER > Scorestreaks",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 01 Patch Notes > MULTIPLAYER > Scorestreaks",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > MULTIPLAYER > Scorestreaks",
+        4
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > KILLSTREAKS",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 04 Patch Notes > MULTIPLAYER > Scorestreaks",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 04 Patch Notes > MULTIPLAYER > Scorestreaks",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > KILLSTREAKS",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > KILLSTREAKS",
+        3
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        33
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        26
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        26
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        5
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        3
+      ]
+    ]
+  },
+  "Field Upgrade": {
+    "pages": 24,
+    "events": 28,
+    "examples": [
+      "Available Field Upgrades",
+      "Equipment, Perks, Field Upgrades, and Wildcards",
+      "FIELD UPGRADES",
+      "Field Upgrade",
+      "Field Upgrade Adjustments",
+      "Field Upgrades",
+      "New Field Upgrade",
+      "New Field Upgrade: Mister Peeks (In-Season)"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > Field Upgrades",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Field Upgrades",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > MULTIPLAYER > Field Upgrades",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ZOMBIES > Field Upgrades",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > FIELD UPGRADES",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > ZOMBIES > Field Upgrades",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > WELCOME TO SEASON 03 RELOADED > New Field Upgrade",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > Zombies > Field Upgrades",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        25
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        22
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        17
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        2
+      ]
+    ]
+  },
+  "Challenge": {
+    "pages": 22,
+    "events": 25,
+    "examples": [
+      "Abomination Challenge (Launch Window)",
+      "CHALLENGES",
+      "Call of Duty Endowment C.O.D.E. Navigator Challenge",
+      "Calling Card Challenges",
+      "Camo Challenges",
+      "Camos & Camo Challenges",
+      "Carbon 57 Fabricator Mag (Weekly Challenge)",
+      "Challenge Tracker & Near Completion"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ZOMBIES > Challenges",
+        6
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > MULTIPLAYER > Challenges",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > MULTIPLAYER > Challenges",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ZOMBIES > Challenges",
+        5
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > ENDGAME > Challenges",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > ENDGAME > Challenges",
+        4
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > ZOMBIES > Challenges",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 7 Preseason Patch Notes > ZOMBIES > Challenges",
+        3
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        75
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        38
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        9
+      ],
+      [
+        [
+          "Modern Warfare 4",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Camo": {
+    "pages": 6,
+    "events": 6,
+    "examples": [
+      "CAMOS",
+      "Camo Challenges",
+      "Camos",
+      "Camos & Camo Challenges"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > MULTIPLAYER > Camos",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > GLOBAL > Camos",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > GLOBAL > CHALLENGES > Camos & Camo Challenges",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > MULTIPLAYER > CHALLENGES > Camo Challenges",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 03 Patch Notes > GLOBAL > Camos",
+        1
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > CAMOS",
+        1
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > CAMOS",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        5
+      ],
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        2
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Battle Pass": {
+    "pages": 11,
+    "events": 11,
+    "examples": [
+      "BATTLE PASS",
+      "Battle Pass",
+      "Dresden 9mm - SMG (Battle Pass)",
+      "EGRT-17 (Assault Rifle, Battle Pass)",
+      "H311-SAW (Melee, Battle Pass)",
+      "Merrick 556 - Assault Rifle (Battle Pass)",
+      "REV-46 (SMG, Battle Pass)"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > BATTLE PASS",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 01 Patch Notes > Friday, November 15, 2024 > GLOBAL > Battle Pass",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > GLOBAL > BATTLE PASS",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 06 Patch Notes > Welcome to Season 06 > New Weapons > Dresden 9mm - SMG (Battle Pass)",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 06 Patch Notes > Welcome to Season 06 > New Weapons > Merrick 556 - Assault Rifle (Battle Pass)",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > Welcome to Season 02 > New Weapons > REV-46 (SMG, Battle Pass)",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > Welcome to Season 02 > New Weapons > EGRT-17 (Assault Rifle, Battle Pass)",
+        1
+      ],
+      [
+        "Call of Duty: Black Ops 7 Season 02 Patch Notes > Welcome to Season 02 > New Weapons > H311-SAW (Melee, Battle Pass)",
+        1
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        7
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        4
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        3
+      ]
+    ]
+  },
+  "Event": {
+    "pages": 33,
+    "events": 43,
+    "examples": [
+      "Combat Bow (Event Reward)",
+      "EVENTS",
+      "Events",
+      "GPR91 Double-Barrel Conversion (Event Reward)",
+      "Gravemark .357 Revolver (Pistol, Event Reward)",
+      "Katana (Melee, Event Reward)",
+      "King of the Dead Leaderboard Event",
+      "Leaderboard Events: No Cranked, No Glory & Undead Ascension"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > EVENTS",
+        5
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > EVENTS",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > PUBLIC EVENTS",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > EVENTS",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > WELCOME TO SEASON 03 RELOADED > New Events",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > WELCOME TO SEASON 03 > New Events",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > PUBLIC EVENTS",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > EVENTS",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        39
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        23
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        19
+      ],
+      [
+        [
+          "Modern Warfare III",
+          "<NULL>"
+        ],
+        1
+      ]
+    ]
+  },
+  "Contract": {
+    "pages": 15,
+    "events": 19,
+    "examples": [
+      "Available Contracts",
+      "CONTRACTS",
+      "Contract Adjustments",
+      "Contract Reveal Timing",
+      "Contract Rewards",
+      "Contracts",
+      "Elite Contracts"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > CONTRACTS",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > CONTRACTS",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > CONTRACTS",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > CONTRACTS",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 04 Patch Notes > CONTRACTS",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 04 Reloaded Patch Notes > CONTRACTS",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 05 Patch Notes > CONTRACTS",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Reloaded Patch Notes > CONTRACTS",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        27
+      ]
+    ]
+  },
+  "Loot": {
+    "pages": 24,
+    "events": 33,
+    "examples": [
+      "Available Via Map Loot",
+      "LOOT",
+      "LOOT & ECONOMY",
+      "Loot",
+      "Loot Items",
+      "Loot Pool",
+      "\u00bb LOOT & ECONOMY \u00ab"
+    ],
+    "section_paths": [
+      [
+        "Call of Duty: Warzone Season 03 Patch Notes > LOOT & ECONOMY",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 03 Reloaded Patch Notes > LOOT & ECONOMY",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 05 Patch Notes > LOOT & ECONOMY",
+        3
+      ],
+      [
+        "Call of Duty: Warzone Season 02 Patch Notes > LOOT & ECONOMY",
+        3
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 02 Patch Notes > ZOMBIES > Loot",
+        2
+      ],
+      [
+        "Call of Duty: Black Ops 6 Season 03 Patch Notes > ZOMBIES > Loot",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 01 Patch Notes > LOOT",
+        2
+      ],
+      [
+        "Call of Duty: Warzone Season 06 Patch Notes > LOOT & ECONOMY",
+        2
+      ]
+    ],
+    "title_experience": [
+      [
+        [
+          "<NULL>",
+          "Warzone"
+        ],
+        29
+      ],
+      [
+        [
+          "Black Ops 6",
+          "<NULL>"
+        ],
+        8
+      ],
+      [
+        [
+          "Black Ops 7",
+          "<NULL>"
+        ],
+        3
+      ]
+    ]
+  }
+}
