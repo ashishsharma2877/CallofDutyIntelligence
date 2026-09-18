@@ -16,4 +16,3 @@ venv/
 
 # Generated data
 data/raw/*
-data/processed/*
