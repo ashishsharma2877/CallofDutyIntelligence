@@ -59,3 +59,52 @@ Or eventually:
 Trace this player outcome backward through the content they experienced, the changes affecting that content, the release containing those changes, and the evidence describing why the change was made.
 
 That's the graph we're actually trying to build.
+
+from the guides
+
+            564 RAW COD GUIDES
+                    │
+                    ▼
+        DETERMINISTIC PREPROCESSOR
+                 Python
+                    │
+                    ▼
+        ┌────────────────────────┐
+        │ Guide                  │
+        │ Title: Nuketown        │
+        │ Experience: Multiplayer│
+        │                        │
+        │ Section: Domination    │
+        │ Paragraph: ...         │
+        │ Bullets: ...           │
+        └────────────────────────┘
+                    │
+                    ▼
+             SEMANTIC LAYER
+                  LLM
+                    │
+                    ▼
+        STRUCTURED ASSERTIONS
+          /       |        \
+         /        |         \
+    Concept    Instance   Relationship
+                             │
+                             ▼
+                          Evidence
+                    │
+                    ▼
+          DETERMINISTIC AGGREGATOR
+                    │
+             deduplicate
+             normalize
+             count evidence
+             identify conflicts
+                    │
+                    ▼
+            ONTOLOGY CANDIDATES
+                    │
+                    ▼
+               Ashish + me
+                    │
+                    ▼
+              ONTOLOGY v0.1

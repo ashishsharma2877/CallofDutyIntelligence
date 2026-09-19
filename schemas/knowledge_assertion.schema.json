@@ -1,0 +1,221 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://callofdutyintelligence.local/schemas/knowledge-assertion.schema.json",
+  "title": "Knowledge Assertion",
+  "description": "Candidate subject-predicate-object knowledge assertion with provenance and review lifecycle.",
+  "version": "0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "assertion_id",
+    "subject",
+    "predicate",
+    "object",
+    "provenance",
+    "proposal",
+    "confidence",
+    "review_status",
+    "related_assertions",
+    "original_proposal",
+    "review_history",
+    "explanation"
+  ],
+  "properties": {
+    "assertion_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject": {
+      "$ref": "#/$defs/term"
+    },
+    "predicate": {
+      "$ref": "#/$defs/predicate"
+    },
+    "object": {
+      "$ref": "#/$defs/term"
+    },
+    "provenance": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/provenance"
+      }
+    },
+    "proposal": {
+      "$ref": "#/$defs/proposal"
+    },
+    "confidence": {
+      "enum": ["HIGH", "MEDIUM", "LOW"]
+    },
+    "review_status": {
+      "enum": ["PENDING", "APPROVED", "REJECTED", "UNRESOLVED"]
+    },
+    "related_assertions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/relatedAssertion"
+      }
+    },
+    "original_proposal": {
+      "type": ["object", "null"]
+    },
+    "review_history": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/reviewEvent"
+      }
+    },
+    "explanation": {
+      "$ref": "#/$defs/explanation"
+    }
+  },
+  "$defs": {
+    "term": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value_type"],
+      "properties": {
+        "entity_id": {
+          "type": ["string", "null"]
+        },
+        "canonical_name": {
+          "type": ["string", "null"]
+        },
+        "raw_name": {
+          "type": ["string", "null"]
+        },
+        "raw_value": {},
+        "value_type": {
+          "enum": ["entity", "string", "number", "boolean", "unknown"]
+        }
+      }
+    },
+    "predicate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["canonical"],
+      "properties": {
+        "raw": {
+          "type": ["string", "null"]
+        },
+        "canonical": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["basis"],
+      "properties": {
+        "source_document": {
+          "type": ["string", "null"]
+        },
+        "guide_id": {
+          "type": ["string", "null"]
+        },
+        "source_url": {
+          "type": ["string", "null"]
+        },
+        "source_blocks": {
+          "type": "array",
+          "items": {
+            "type": ["string", "integer"]
+          }
+        },
+        "evidence_text": {
+          "type": ["string", "null"]
+        },
+        "basis": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "enum": [
+              "EXPLICIT_SOURCE",
+              "STRUCTURAL_METADATA",
+              "AI_INFERENCE",
+              "HUMAN_DOMAIN_DECISION"
+            ]
+          }
+        }
+      }
+    },
+    "proposal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["proposed_by", "extracted_at"],
+      "properties": {
+        "proposed_by": {
+          "enum": ["AI", "HUMAN", "SYSTEM"]
+        },
+        "model": {
+          "type": ["string", "null"]
+        },
+        "model_version": {
+          "type": ["string", "null"]
+        },
+        "extracted_at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    },
+    "reviewEvent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reviewer", "timestamp", "action"],
+      "properties": {
+        "reviewer": {
+          "type": "string"
+        },
+        "timestamp": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "action": {
+          "enum": ["APPROVED", "EDITED", "REJECTED", "UNRESOLVED", "COMMENTED"]
+        },
+        "previous_value": {},
+        "new_value": {},
+        "comment": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "relatedAssertion": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["assertion_id", "relation"],
+      "properties": {
+        "assertion_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "relation": {
+          "enum": ["SUPERSEDE", "CONTRADICT", "REFINE", "ALTERNATIVE_TO", "DERIVED_FROM"]
+        },
+        "note": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "explanation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "why_proposed": {
+          "type": ["string", "null"]
+        },
+        "why_in_graph": {
+          "type": ["string", "null"]
+        },
+        "approval_basis": {
+          "type": ["string", "null"]
+        },
+        "rejection_reason": {
+          "type": ["string", "null"]
+        }
+      }
+    }
+  }
+}
